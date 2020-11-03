@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         datos.add(new Equipo("Real Madrid" ,"Bernabeu" ,"Zidane "));
         datos.add(new Equipo("Barcelona" ,"Camp Nou" ,"Guardiola "));
         datos.add(new Equipo("Real Betis" ,"Benito Villamarin" ,"Lopetegui "));
-        datos.add(new Equipo("Real Madrid" ,"Bernabeu" ,"Zidane "));
+        datos.add(new Equipo("Granada" ,"Los Cármenes" ,"Rigoberto "));
         datos.add(new Equipo("Real Madrid" ,"Bernabeu" ,"Zidane "));
         datos.add(new Equipo("Real Madrid" ,"Bernabeu" ,"Zidane "));
         datos.add(new Equipo("Real Madrid" ,"Bernabeu" ,"Zidane "));
